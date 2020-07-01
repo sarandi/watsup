@@ -1,0 +1,7 @@
+{
+  "default": true,
+  "MD033": {
+    "allowed_elements": [ "a" ]
+  }
+}
+#https://github.com/DavidAnson/markdownlint/blob/2d8122a3bec9d33c55da5620d07901842fb9c92d/test/inline_html-allowed_elements.json
